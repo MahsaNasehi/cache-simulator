@@ -14,7 +14,7 @@ MFU (Most Frequently Used)
 
 Random Replacement
 
-Features include:
+## Features include:
 
 Support for 2-way set-associative cache
 
